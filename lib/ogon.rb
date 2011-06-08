@@ -1,0 +1,3 @@
+module Ogon
+  # Your code goes here...
+end
